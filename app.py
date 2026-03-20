@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px 
 from datetime import datetime 
 
-API_KEY = "d11cb3670a28fa36abc336c62ea93a82"  
+API_KEY = "api_key"  
 
 CURRENT_URL = "https://api.openweathermap.org/data/2.5/weather"
 FORECAST_URL = "https://api.openweathermap.org/data/2.5/forecast"
